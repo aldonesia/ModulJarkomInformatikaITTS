@@ -84,7 +84,7 @@ Setelah mendownload keduanya langkah pertama yang harus dilakukan ialah menjalan
 
 
 
- ![BG5](assets\BG5.png)
+<img src="assets\BG5.png" alt="BG5" style="zoom:67%;" />
 
 **note** : Jangan lupa mengubah ***ip_tuntap_tiap_kelompok***  terlebih dahulu dan sesuaikan dengan pembagian tiap kelompok masing-masing, List NID Ip tuntap dan NID DMZ dapat dilihat di link ini : https://docs.google.com/spreadsheets/d/1P7tzYxKYc4_4jG4SIvais6LNgSS1AeBkiub-fNbaM-A/edit?usp=sharing.
 
@@ -111,13 +111,13 @@ xterm -T Monx -e linux ubd0=Monx,root_fs umid=Monx eth0=daemon,,,Vessa mem=64M &
 
 5. Jalankan script **topologi.sh** dengan perintah `bash topologi.sh`
 
-   ![BG6](assets\BG6.png)
+  <img src="assets\BG6.png" alt="BG6" style="zoom:67%;" />
 
 5. Setelah muncul gambar seperti di atas, login pada masing-masing UML dengan menggunakan **Username =root** dan **tanpa password**
 
 5. pada setiap topologi harus menggantikan nama dari **hostname** dengan mengetikan `nano /etc/hostname` sesuai dengan nama topologi
 
-   ![BG7](assets\BG7.png)
+  <img src="assets\BG7.png" alt="BG7" style="zoom:67%;" />
 
 5. setelah itu mengganti nama **hostname** restart system dengan menjalankan perintah `reboot`
 
@@ -125,7 +125,7 @@ xterm -T Monx -e linux ubd0=Monx,root_fs umid=Monx eth0=daemon,,,Vessa mem=64M &
 
 5. Hilangkan tanda pagar (#) pada bagian `net.ipv4.ip_forward=1`
 
-   ![BG8](assets\BG8.png)
+   <img src="assets\BG8.png" alt="BG8" style="zoom:67%;" />
 
 5. Lalu jalankan perintah `sysctl -p` untuk mengaktifkan perubahan yang ada. Dengan mengaktifkan fungsi ***IP Forward*** ini maka Linux nantinya dapat menentukan jalur mana yang dipilih untuk mencapai jaringan tujuan
 
@@ -217,7 +217,7 @@ gateway 192.168.0.1
 
   13. Topologi yang dibuat sudah bisa berjalan secara lokal, tetapi kita belum bisa mengakses jaringan keluar. Ketikkan **`iptables-legacy –t nat –A POSTROUTING –o eth0 –j MASQUERADE –s 192.168.0.0/16`** pada router Dzul.
 
-      ![BG11](assets\BG11.png)
+      <img src="assets\BG11.png" alt="BG11" style="zoom:67%;" />
 
       ##### Keterangan : 
 
