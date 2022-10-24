@@ -84,7 +84,7 @@ Setelah mendownload keduanya langkah pertama yang harus dilakukan ialah menjalan
 
 
 
-![BG5](assets\BG5.png)
+ ![BG5](assets\BG5.png)
 
 **note** : Jangan lupa mengubah ***ip_tuntap_tiap_kelompok***  terlebih dahulu dan sesuaikan dengan pembagian tiap kelompok masing-masing, List NID Ip tuntap dan NID DMZ dapat dilihat di link ini : https://docs.google.com/spreadsheets/d/1P7tzYxKYc4_4jG4SIvais6LNgSS1AeBkiub-fNbaM-A/edit?usp=sharing.
 
