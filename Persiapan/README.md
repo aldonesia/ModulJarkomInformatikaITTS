@@ -84,4 +84,4 @@ Lakukan langkah-langkah berikut:
 
 ## Selamat Menyiapkan :)
 
-n.b. Jika terjadi masalah, silahkan membuka [troubleshoot](#). Jika masalah yang dihadapi tidak ada di troubleshoot tersebut, silahkan gugling. Jika masih juga belum menemukan solusinya, silahkan bertanya pada asisten kesayangan kamu :3
+n.b. Jika terjadi masalah, silahkan gugling. Jika masih juga belum menemukan solusinya, silahkan bertanya pada asisten kesayangan kamu :3
