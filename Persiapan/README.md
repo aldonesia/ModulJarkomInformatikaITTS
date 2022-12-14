@@ -62,19 +62,13 @@ Lakukan langkah-langkah berikut:
    apt-get update
    ```
 
-2. Menginstal isc-dhcp-server pada router Dzul
-
-   ```
-   apt-get install isc-dhcp-server
-   ```
-
-3. Menginstal squid pada server Ardx
+2. Menginstal squid pada server Ardx
 
    ```
    apt-get install squid
    ```
 
-4. Menginstal bind9 pada server Aldx
+3. Menginstal bind9 pada server Aldx
 
    ```
    apt-get install bind9
