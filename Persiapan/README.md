@@ -13,7 +13,7 @@ Berikut adalah topologi jaringan yang akan digunakan pada modul 3.
 1. Hapus terlebih dahulu file UML yang tidak diperlukan bekas praktikum kemarin
 
    ```
-   rm Dzul Vessa Alqis Elas Monx Aldx Ardx
+   rm Dzul Vessa Alqis Walx Monx Aldx Ardx
    ```
 
    Himbauan!!!
@@ -32,7 +32,7 @@ Berikut adalah topologi jaringan yang akan digunakan pada modul 3.
 
 ## 2. Konfigurasi Interface
 
-Konfigurasi interface sama seperti [Modul Pengenalan UML](https://github.com/rohanaq/Modul-Pengenalan-UML), dengan tambahan:
+Konfigurasi interface sama seperti [Modul Pengenalan UML](https://github.com/aldonesia/ModulJarkomInformatikaITTS/tree/modul-1/modul1.5), dengan tambahan:
 
 - Zonx (Sebagai Client)
 
@@ -84,4 +84,4 @@ Lakukan langkah-langkah berikut:
 
 ## Selamat Menyiapkan :)
 
-n.b. Jika terjadi masalah, silahkan gugling. Jika masih juga belum menemukan solusinya, silahkan bertanya pada asisten kesayangan kamu :3
+n.b. Jika terjadi masalah, silahkan gugling. Jika masih juga belum menemukan solusinya, silahkan bertanya pada diri sendiri :3
