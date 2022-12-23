@@ -26,7 +26,7 @@ Berikut adalah topologi jaringan yang akan digunakan pada modul 3.
    - Memori router **Dzul** adalah **256M** karena akan menjadi DHCP Server.
    - Memori server **Aldx** dan **Ardx** adalah **128M** karena akan menjadi DNS Server dan Proxy server.
 
-3. Langkah-langkah selengkapnya silahkan mengikuti panduan membuat UML pada [Modul Pengenalan UML](https://github.com/rohanaq/Modul-Pengenalan-UML).
+3. Langkah-langkah selengkapnya silahkan mengikuti panduan membuat UML pada [Modul Pengenalan UML](https://github.com/aldonesia/ModulJarkomInformatikaITTS/tree/modul-1/modul1.5).
 
 
 
