@@ -162,7 +162,7 @@ Konfigurasi DHCP terletak di `/etc/dhcp/dhcpd.conf`. Langkah-langkah yang harus 
 
    Sebagai contoh :
 
-   IP range akan kita gunakan yaitu 192.168.0**.0 (Kita Akan mencari IP Terakhir)**
+   IP range akan kita gunakan yaitu 192.168.0.** (Kita Akan mencari IP Terakhir)**
 
    ![image12.png](https://github.com/aldonesia/ModulJarkomInformatikaITTS/blob/modul-3/img/image12.png?raw=true)
 
